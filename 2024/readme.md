@@ -30,15 +30,16 @@
 * `Wed 10/23`: [Pixel Logics II](daily_notes/20241023.md)
 * `Mon 10/28`: [Body Tracking](daily_notes/20241028.md)
 * `Wed 10/30`: [Full-Body Interactive Art](daily_notes/20241030.md)
-* `Mon 11/04` 
-* `Wed 11/06` 
-* `Mon 11/11` 
-* `Wed 11/13` 
-* `Mon 11/18` 
+* `Mon 11/04`: *Work session for Body/Gesture project*
+* `Wed 11/06`: [Teachable Interactions](daily_notes/20241106.md)
+* `Mon 11/11`: [Introduction to ComfyUI](daily_notes/20241111.md)
+* `Wed 11/13`: [Worksession for AI projects](daily_notes/20241113.md)
+* `Mon 11/18`
 * `Wed 11/20`
-* `Mon 11/25` 
-* `Mon 12/02` 
+* `Mon 11/25`
+* `Mon 12/02`
 * `Wed 12/04`
+* `Tue 12/10`
 
 ---
 
@@ -56,7 +57,7 @@ This information is also available in our Google [**Calendar**](http://bit.ly/go
 * `Mon 10/21`: [Assignment Set 7](assignments/assignment_7.md) (Part I) Due
 * `Mon 10/28`: [Assignment Set 7B](assignments/assignment_7b.md) (Part II) Due
 * `Wed 11/06`: [Assignment Set 8](assignments/assignment_8.md) Due 
-* `Mon 11/18`: Assignment Set 8 Due (Diffusion: Dino, p5+Comfy)  
+* `Mon 11/18`: [Assignment Set 9](assignments/assignment_9.md) Due  
 * `Wed 12/04`: Assignment Set 10 *Work-in-Progress* (Interactive Environment)
 * `Tue 12/10`: Assignment Set 10 Due (Interactive Environment), 5:30pm‐8:30pm
 
